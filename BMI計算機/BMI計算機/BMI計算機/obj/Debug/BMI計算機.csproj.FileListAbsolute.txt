@@ -4,3 +4,10 @@ C:\Users\USER\Desktop\BMI計算機\BMI計算機\BMI計算機\bin\Debug\BMI計算
 C:\Users\USER\Desktop\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.csprojResolveAssemblyReference.cache
 C:\Users\USER\Desktop\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.exe
 C:\Users\USER\Desktop\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.pdb
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\bin\Debug\BMI計算機.exe.config
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\bin\Debug\BMI計算機.exe
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\bin\Debug\BMI計算機.pdb
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.exe
+C:\Users\USER\Desktop\程式\BMI\BMI計算機\BMI計算機\BMI計算機\obj\Debug\BMI計算機.pdb
