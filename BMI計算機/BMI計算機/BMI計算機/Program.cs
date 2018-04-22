@@ -10,29 +10,29 @@ namespace BMI計算機
     {
         static void Main(string[] args)
         {
-            //設 BMI計算機為標題
+            // 設 BMI計算機為標題
             Console.Title = "BMI計算機";
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("╔═══════════╗");
             Console.WriteLine("║ BMI計算機 ║");
             Console.WriteLine("╚═══════════╝");
 
-            //輸入身高體重
+            // 輸入身高體重
             Console.ForegroundColor = ConsoleColor.Red;
             Console.BackgroundColor = ConsoleColor.Black;
             Console.Write("輸入體重:");           
 
-            //轉型方式
+            // 轉型方式
             double kg = double.Parse(Console.ReadLine());
             Console.Write("輸入身高:");
             double cm = double.Parse(Console.ReadLine());
 
-            //計算BMI值
+            // 計算BMI值
             double BMI = kg / ((cm * 0.01) * (cm * 0.01));
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("BMI值為:" + BMI);
 
-            //判斷BMI的範圍
+            // 判斷BMI的範圍
             if (BMI < 16.5)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
@@ -42,7 +42,7 @@ namespace BMI計算機
                 Console.WriteLine("║                        ║");
                 Console.WriteLine("╚════════════════════════╝");
 
-                //嗶嗶聲
+             // 嗶嗶聲
                 Console.Beep(523, 100);
                 Console.Beep(587, 100);
                 Console.Beep(988, 100);
